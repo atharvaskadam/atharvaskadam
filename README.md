@@ -7,5 +7,5 @@ About Me
 - ⚡ Fun fact: Everything is Awesome!
 - ❤️ Cycling.
 - ❤️ Volleyball.
-- 🤓 God Bless The Mess..!!
+- 🤓 God Bless The Mess..!!.
 -->
