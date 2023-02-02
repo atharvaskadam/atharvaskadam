@@ -47,3 +47,11 @@ About Me
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=atharvaskadam&theme=highcontrast)
 
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=atharvaskadam.atharvaskadam)
+
+---
+
+## Find Me @
+
+[![Linkedin Badge](https://img.shields.io/badge/-atharva--kadam--93a567237-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-kadam-93a567237/)](https://www.linkedin.com/in/atharva-kadam-93a567237)
+[![Twitter Badge](https://img.shields.io/badge/-_ASK_04_-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ASK_04_)
+
