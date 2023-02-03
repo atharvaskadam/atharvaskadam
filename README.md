@@ -12,6 +12,12 @@ About Me
 
 ---
 
+![atharvaskadam's github stats](https://github-readme-stats.vercel.app/api?username=atharvaskadam&show_icons=true&theme=dark)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=atharvaskadam&theme=gruvbox&no-frame=false&row=2&&margin-w=20&no-bg=false)
+
+---
+
 ## Technologies I Have Worked With
 
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23F7DF1C?style=for-the-badge&logo=amazon-aws&logoColor=000000)](https://aws.amazon.com/)
