@@ -12,7 +12,7 @@ About Me
 
 ---
 
-![atharvaskadam's github stats](https://github-readme-stats.vercel.app/api?username=atharvaskadam&show_icons=true&theme=dark)
+![atharvaskadam's github stats](https://github-readme-stats.vercel.app/api?username=atharvaskadam&show_icons=true&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=atharvaskadam&theme=gruvbox&no-frame=false&row=2&&margin-w=20&no-bg=false)
 
