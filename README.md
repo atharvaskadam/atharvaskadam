@@ -3,9 +3,9 @@
 About Me 
 ----------------------------------------------------------
 - 🖥️ I'm a Software Engineer from India.
-- 👨‍💻 I'm currently working as Go Lang Developer and AWS Cloud Engineer
+- 👨‍💻 I'm currently working as Go Lang Developer and AWS Cloud Engineer!.
 - 🌱 I’m currently learning AWS.
-- ⚡ Fun fact: Everything is Awesome!
+- ⚡ Fun fact: Everything is Awesome!. 
 - ❤️ Cycling & Volleyball.
 - 🤓 God Bless This Mess..!!.
 - 🚲 When In Doubt Pedal It Out🚲.
