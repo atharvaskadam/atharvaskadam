@@ -59,5 +59,5 @@ About Me
 ## Find Me @
 
 [![Linkedin Badge](https://img.shields.io/badge/-atharva--kadam--93a567237-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-kadam-93a567237/)](https://www.linkedin.com/in/atharva-kadam-93a567237)
-[![Twitter Badge](https://img.shields.io/badge/-_ASK_04_-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ASK_04_)
+[![Twitter Badge](https://img.shields.io/badge/-_ASK_04_-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ASK_04_)
 [![Instagram Badge](https://img.shields.io/badge/-its_ask_04-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_ask_04/)
