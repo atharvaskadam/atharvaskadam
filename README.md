@@ -1,14 +1,14 @@
-# Hey there 👋, My name is Atharva Kadam
+# 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚 👋, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝘼𝙩𝙝𝙖𝙧𝙫𝙖 𝙆𝙖𝙙𝙖𝙢
 
-## About Me
+## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
-- 🖥️ I'm a Software Engineer from India.
-- 👨‍💻 I'm currently working as Go Lang Developer and AWS Cloud Engineer!.
-- 🌱 I’m currently learning AWS.
-- ⚡ Fun fact: Everything is Awesome!.
-- ❤️ Cycling & Volleyball.
-- 🤓 God Bless This Mess..!!.
-- 🚲 When In Doubt Pedal It Out🚲.
+- 🖥️ 𝐈'𝐦 𝐚 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚.
+- 👨‍💻 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐚𝐬 𝐆𝐨 𝐋𝐚𝐧𝐠 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐧𝐝 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫!.
+- 🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐀𝐖𝐒.
+- ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭: 𝐄𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐬 𝐀𝐰𝐞𝐬𝐨𝐦𝐞!.
+- ❤️ 𝐂𝐲𝐜𝐥𝐢𝐧𝐠 & 𝐕𝐨𝐥𝐥𝐞𝐲𝐛𝐚𝐥𝐥.
+- 🤓 𝐆𝐨𝐝 𝐁𝐥𝐞𝐬𝐬 𝐓𝐡𝐢𝐬 𝐌𝐞𝐬𝐬..!!.
+- 🚲 𝐖𝐡𝐞𝐧 𝐈𝐧 𝐃𝐨𝐮𝐛𝐭 𝐏𝐞𝐝𝐚𝐥 𝐈𝐭 𝐎𝐮𝐭🚲.
 
 <p align="center">
 <br>
@@ -24,7 +24,7 @@
 ![Contributions](./contributions.svg)
 
 <p align="center">
-  Visitor count<br>
+  【﻿Ｖｉｓｉｔｏｒ　Ｃｏｕｎｔ】<br>
   <img src="https://profile-counter.glitch.me/atharvaskadam/count.svg"/>
 </p>
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Technologies I Have Worked With
+## 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐇𝐚𝐯𝐞 𝐖𝐨𝐫𝐤𝐞𝐝 𝐖𝐢𝐭𝐡
 
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23F7DF1C?style=for-the-badge&logo=amazon-aws&logoColor=000000)](https://aws.amazon.com/)
 [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/)
@@ -74,7 +74,7 @@
 
 ---
 
-## Find Me @
+## 𝐅𝐢𝐧𝐝 𝐌𝐞 @
 
 [![Linkedin Badge](https://img.shields.io/badge/-atharva--kadam--93a567237-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-kadam-93a567237/)](https://www.linkedin.com/in/atharva-kadam-93a567237)
 [![Twitter Badge](https://img.shields.io/badge/-_ASK_04_-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ASK_04_)
