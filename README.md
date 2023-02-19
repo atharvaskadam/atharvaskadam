@@ -16,10 +16,11 @@
 
 ---
 
+![](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 ![Contributions](./contributions.svg)
 <p align="center">
- Visitor count<br>
- <img src="https://profile-counter.glitch.me/atharvaskadam/count.svg"/>
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/atharvaskadam/count.svg"/>
 </p>
 
 ---
