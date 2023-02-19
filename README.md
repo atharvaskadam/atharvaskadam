@@ -11,8 +11,15 @@
 - 🚲 When In Doubt Pedal It Out🚲.
 
 <p align="center">
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</p>
+
+<p align="center">
     <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
 </p>
+
+
 
 ![Contributions](./contributions.svg)
 
