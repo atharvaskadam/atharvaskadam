@@ -1,10 +1,6 @@
 # Hey there 👋, My name is Atharva Kadam
 
----
-
 ## About Me
-
----
 
 - 🖥️ I'm a Software Engineer from India.
 - 👨‍💻 I'm currently working as Go Lang Developer and AWS Cloud Engineer!.
@@ -13,8 +9,6 @@
 - ❤️ Cycling & Volleyball.
 - 🤓 God Bless This Mess..!!.
 - 🚲 When In Doubt Pedal It Out🚲.
-
----
 
 <p align="center">
     <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
