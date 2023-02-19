@@ -12,7 +12,7 @@
 
 <p align="center">
 <br>
-<img alt="Coder GIF" height=250 width=479 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=250 width=479 src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 </p>
 
 <p align="center">
