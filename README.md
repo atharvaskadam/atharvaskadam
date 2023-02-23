@@ -1,4 +1,4 @@
-# Heyy there 👋, My name is Atharva Kadam.!!
+# Hey there 👋, My name is Atharva Kadam.!!
 
 ## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
