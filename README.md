@@ -24,7 +24,7 @@
 ![Contributions](./contributions.svg)
 
 <p align="center">
-  【﻿Ｖｉｓｉｔｏｒ　Ｃｏｕｎｔ】<br>
+  【Ｖｉｓｉｔｏｒ　Ｃｏｕｎｔ】<br>
   <img src="https://profile-counter.glitch.me/atharvaskadam/count.svg"/>
 </p>
 
