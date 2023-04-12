@@ -30,7 +30,7 @@
 
 ---
 
-![atharvaskadam's github stats](https://github-readme-stats.vercel.app/api?username=atharvaskadam&show_icons=true&theme=highcontrast)
+![atharvaskadam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atharvaskadam&&show_icons=true&theme=dark)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=atharvaskadam&theme=gruvbox&no-frame=false&row=2&&margin-w=20&no-bg=false)
 
