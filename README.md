@@ -70,8 +70,6 @@
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=atharvaskadam&theme=highcontrast)
 
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=atharvaskadam.atharvaskadam)
-
 ---
 
 ## 𝐅𝐢𝐧𝐝 𝐌𝐞 @
